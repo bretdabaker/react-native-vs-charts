@@ -1,0 +1,29 @@
+{
+  "name": "react-native-vs-charts",
+  "version": "0.0.1",
+  "description": "A charting library built using only View and Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bretdabaker/react-native-vs-charts.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "chart"
+  ],
+  "author": "Bret Cheng <bretdabaker@gmail.com> (http://vivace.cc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bretdabaker/react-native-vs-charts/issues"
+  },
+  "homepage": "https://github.com/bretdabaker/react-native-vs-charts",
+  "dependencies": {
+  }
+}
