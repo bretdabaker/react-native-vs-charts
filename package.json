@@ -25,5 +25,8 @@
   },
   "homepage": "https://github.com/bretdabaker/react-native-vs-charts",
   "dependencies": {
+  },
+  "peerDependencies": {
+    "react-native": ">=0.13.2"
   }
 }
