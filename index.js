@@ -6,13 +6,20 @@
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * @flow
  */
 'use strict';
 
 var ViewStyleCharts = {
+  // components
   Axes: require('./lib/Axes'),
-  BarChart: require('./lib/BarChart')
+  BarChart: require('./lib/BarChart'),
+  // prop types
+  AxisStylePropTypes: require('./lib/AxisStylePropTypes'),
+  DatasetPropType: require('./lib/DatasetPropType'),
+  ScalePropType: require('./lib/ScalePropType'),
+  // helper functions
+  generateScale: require('./lib/generateScale'),
+  getRange: require('./lib/getRange')
 };
 
 module.exports = ViewStyleCharts;
