@@ -19,7 +19,8 @@ var ViewStyleCharts = {
   ScalePropType: require('./lib/ScalePropType'),
   // helper functions
   generateScale: require('./lib/generateScale'),
-  getRange: require('./lib/getRange')
+  makeRange: require('./lib/makeRange'),
+  resolveDatasets: require('./lib/resolveDatasets')
 };
 
 module.exports = ViewStyleCharts;
