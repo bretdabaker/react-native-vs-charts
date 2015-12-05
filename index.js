@@ -13,6 +13,7 @@ var ViewStyleCharts = {
   // components
   Axes: require('./lib/Axes'),
   BarChart: require('./lib/BarChart'),
+  LineChart: require('./lib/LineChart'),
   // prop types
   AxisStylePropTypes: require('./lib/AxisStylePropTypes'),
   DatasetPropType: require('./lib/DatasetPropType'),
