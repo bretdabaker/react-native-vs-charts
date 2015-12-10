@@ -1,6 +1,6 @@
 {
   "name": "react-native-vs-charts",
-  "version": "0.0.1",
+  "version": "v0.1.0",
   "description": "A charting library built using only View and Style",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "react-native": ">=0.13.2"
+    "react-native": ">=0.13.0"
   }
 }
