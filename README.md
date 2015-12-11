@@ -2,7 +2,7 @@ React Native View Style Charts
 ===================
 A charting library built using only View and Style
 
-![View Style Charts Demo](https://lh3.googleusercontent.com/E0iC4yE-_lPjoGYAflNaLRNWgLGf6_iYDW9JFdJMeO8vc_zq80FqE9nOtntNvbiEW9wCBn4y8_CPc7yf6oKiO0gU7g)
+![View Style Charts Demo](img/screenshot.png)
 
 https://rnplay.org/apps/7J2NIQ
 
