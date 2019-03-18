@@ -1,5 +1,7 @@
+
 React Native View Style Charts
 ===================
+### NOTE: This library is no longer maintained.
 A charting library built using only View and Style
 
 ![View Style Charts Demo](img/screenshot.png)
